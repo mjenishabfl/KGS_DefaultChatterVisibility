@@ -1,0 +1,26 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "DefaultChatterVisibility",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "KGS_DefaultChatterVisibility",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "kgs",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "DefaultChatterVisibility": "0Ho5e000000wkOICAY",
+        "KGS_DefaultChatterVisibility": "0Ho5e000000wkONCAY",
+        "KGS_DefaultChatterVisibility@0.1.0-1": "04t5e000000NlvxAAC"
+    }
+}
